@@ -1,6 +1,6 @@
 # DealSDKS
-   sdk 说明 sdk 提供deal的列表和详情的接口
-1. 代码结构
+   sdk 说明 sdk 提供deal的列表和详情的接口 \n
+1. 代码结构 /n
    1.1 app demo 演示
    1.2 app/libs/dealSdk.jar 接入的sdk 
 2. 集成步骤
